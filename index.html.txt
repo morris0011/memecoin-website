@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-GB" class="theme light EHoceA">
+  <head>
+    <style></style>
+    <base href="/">
+    <meta charset="utf-8">
+    <title>SHYPE</title>
+    <meta name="app-name" content="export_website">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="_assets/a06d4b780c739e9.vendor.ltr.css" rel="stylesheet" integrity="sha512-JwWCpiHdk95MOUTatfaZJwstzeDnWlfvMJ1iwnSzxFpmgeCe4vyQDQ+QNMKQj1rH7t27oMT1EayZnRypqLDw=="
+          crossorigin="anonymous">
+    <link href="_assets/972752bb5c94b50.ltr.css" rel="stylesheet" integrity="sha512-BnBN8AHpjmBdGZubDzna1JoHK0JcKcObLln2orp22e7UJHrnKbL08x/oyH3uwlNRf+0fvccIAAdRAh1LIKYP9eQ=="
+          crossorigin="anonymous">
+    <link href="_assets/static font 4.ltr.css" rel="stylesheet">
+    <link href="_assets/8e5c9ef06c0640d2.runtime.js" rel="preload" as="script" crossorigin="anonymous"
+          integrity="sha512-IxB7T+Cq7ZFiFI4c4ttLlN/3EHxowonN03/cKzmLbe+IrkF2VMcjy6d8audWnbCooq2TeBwpnZ6usKM7g8hYg=="
+          nonce>
+    <link href="_assets/c0fee2712ef7ec1.13d79q.vendor.js" rel="preload" as="script" crossorigin="anonymous"
+          integrity="sha512-28VLsnzSrYuJHZcZS4fF/Vm43quL3oUV59IY4X0MeN6s6eAG1jYwR3BtZWHvmCDwDhRE1E0w4jpiBA07ge=="
+          nonce>
+    <link href="_assets/a975461ae63683b9.vendor.js" rel="preload" as="script" crossorigin="anonymous"
+          integrity="sha512-bX2cHM8OgWN55bi21iobCzCkrf1kQm8J0xcv9Tx1Dabvk2OHgIc0HOyAd9GJ02i9iK5o/3UlJLCevfgac4A=="
+          nonce>
+    <link href="_assets/a5b3e0db05444432d.strings.js" rel="preload" as="script" crossorigin="anonymous"
+          integrity="sha512-+4msvMVXk53z3rGWr/pmvETLdX+IBq2VOfNL0G0QI0tvCZ5Ck8tjeR67xwGHlWGgkH5FsY9B0k+UeqKPva4we=="
+          nonce>
+    <link href="_assets/71ee48b38299b4c2.en-GB.js" rel="preload" as="script" crossorigin="anonymous"
+          integrity="sha512-Mne/zxCqti1it2QC6zMXYucf9tpp/uIlbG/IScCSBnC/cf2q5aAh7s1gDMqURNaIVEJrUMX/qZlkj1gz=="
+          nonce>
+    <link href="_assets/d098854c0ce1963b.js" rel="preload" as="script" crossorigin="anonymous"
+          integrity="sha512-cN7mgZxS1hbbta0LGdaMCcxtKLJk+xWlwXNQcC5iC/wgGjMLkpcXWKh06QFxNPtgnkYMXLk1jpx08HytjKAcA=="
+          nonce>
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <meta property="og:title" content="SHYPE">
+    <meta property="og:type" content="website">
+    <link rel="shortcut icon" href="_assets/images/66298ec....png">
+    <link rel="icon" href="_assets/images/252d651....png" sizes="192x192">
+    <link rel="apple-touch-icon" href="_assets/images/eaa138....png" sizes="180x180">
+    <script nonce=""></script>
+    <link id="nordvpn-contextScript-extension-fonts" rel="stylesheet"
+          href="//fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" type="text/css" href="_assets/82a10ef01b3171ad.ltr.css">
+    <link rel="stylesheet" type="text/css" href="_assets/4878e9aab956e240.ltr.css">
+    <link rel="stylesheet" type="text/css" href="_assets/6c95ec3bdfd887.ltr.css">
+    <link rel="stylesheet" type="text/css" href="_assets/1e8649388271890.ltr.css">
+    <link rel="stylesheet" type="text/css" href="_assets/106f6d2a1dc94c.ltr.css">
+  </head>
+  <body>
+    <script nonce=""></script>
+    <div id="n=0"></div>
+    <div id="root"></div>
+    <script crossorigin="anonymous" src="_assets/8e5c9ef06c0640d2.runtime.js" defer
+            integrity="sha512-IxB7T+Cq7ZFiFI4c4ttLlN/3EHxowonN03/cKzmLbe+IrkF2VMcjy6d8audWnbCooq2TeBwpnZ6usKM7g8hYg==" nonce></script>
+    <script crossorigin="anonymous" src="_assets/c0fee2712ef7ec1.13d79q.vendor.js" defer
+            integrity="sha512-28VLsnzSrYuJHZcZS4fF/Vm43quL3oUV59IY4X0MeN6s6eAG1jYwR3BtZWHvmCDwDhRE1E0w4jpiBA07ge==" nonce></script>
+    <script crossorigin="anonymous" src="_assets/a975461ae63683b9.vendor.js" defer
+            integrity="sha512-bX2cHM8OgWN55bi21iobCzCkrf1kQm8J0xcv9Tx1Dabvk2OHgIc0HOyAd9GJ02i9iK5o/3UlJLCevfgac4A==" nonce></script>
+    <script crossorigin="anonymous" src="_assets/a5b3e0db05444432d.strings.js" defer
+            integrity="sha512-+4msvMVXk53z3rGWr/pmvETLdX+IBq2VOfNL0G0QI0tvCZ5Ck8tjeR67xwGHlWGgkH5FsY9B0k+UeqKPva4we==" nonce></script>
+    <script crossorigin="anonymous" src="_assets/71ee48b38299b4c2.en-GB.js" defer
+            integrity="sha512-Mne/zxCqti1it2QC6zMXYucf9tpp/uIlbG/IScCSBnC/cf2q5aAh7s1gDMqURNaIVEJrUMX/qZlkj1gz==" nonce></script>
+    <script crossorigin="anonymous" src="_assets/d098854c0ce1963b.js" defer
+            integrity="sha512-cN7mgZxS1hbbta0LGdaMCcxtKLJk+xWlwXNQcC5iC/wgGjMLkpcXWKh06QFxNPtgnkYMXLk1jpx08HytjKAcA==" nonce></script>
+
+    <div class="v0_MwxvY"></div>
+    <div class="c17GfwY"></div>
+    <div class="sOA8QQ"></div>
+    <div class="sOA8QQ"></div>
+    <div id="r:0:0" aria-hidden="true" class="_pFsfA">Toggle mute</div>
+    <div id="r:0:2" aria-hidden="true" class="_pFsfA">Toggle mute</div>
+
+    <veepn-load-alert></veepn-load-alert>
+    <veepn-lock-screen></veepn-lock-screen>
+    <div id="r:0:4" aria-hidden="true" class="_pFsfA">Toggle mute</div>
+    <k196f6ffc-8736-4530-ba25-24f9b12a4f31></k196f6ffc-8736-4530-ba25-24f9b12a4f31>
+  </body>
+</html>
